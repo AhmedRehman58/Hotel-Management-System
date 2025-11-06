@@ -3,13 +3,13 @@
 # 🏨 SMART HOTEL SUITE
 *Where Data Structures Meet Luxury Hospitality*
 
----
+
 
 ## 💫 Revolutionizing Hotel Management!
 
 **Smart Hotel Management System** - A Java-powered solution that transforms Queue Data Structures into real-world hotel management excellence. Perfect blend of cutting-edge technology and practical hospitality!
 
----
+
 
 ### ⚡ **Lightning-Fast Features**
 - Instant guest check-ins with smart queue management
@@ -18,7 +18,6 @@
 - Live dashboard with beautiful analytics
 - Modern glass-morphism UI design
 
----
 
 ### 🔧 **Smart Core Features**
 - **Intelligent Guest Queue** - Automated FIFO processing
@@ -28,7 +27,6 @@
 - **Advanced Search** - Quick data retrieval
 - **Professional Dashboard** - Comprehensive overview
 
----
 
 ## 🚀 KEY BENEFITS
 
